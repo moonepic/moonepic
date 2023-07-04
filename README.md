@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">Passionate Back-end Development with a Focus on Design & Building products"</h3>
+<h3 align="center">Tech Enthusiast : Backend Development with a Focus on Design & Building products"</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -7,16 +7,17 @@
 
 - 🎨 I'love Design & big fan of gradients!
 
-- 💬 Ask me about **Backend, Servers,Nodejs, Database, Figma, UI/UX, next, PHP, javascript**
+- 💻  **Backend APIs, Servers, Nodejs, Database, PHP, Figma, UI/UX, Next, Python, JS**
 
 - 👯 I’m open to collaborate on design projects & Project Management
 
 - 📱 Built products across domains: FoodTech | PropTech | HealthTech 
 
-- 📫 How to reach me **productivecs43@gmail.com**
+- 📫 How to reach me Telegram **@moonepic**
 
 - ⚡ Fun fact: Nature is true Blockchain ⛓️🌐
 
+- 👥 User Focused
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -116,5 +117,5 @@
   </a>
 </p>
 <h4 align="left">Lightning Payment Address: <a href="https://strike.me/cse/">https://strike.me/cse </a></h4>
-<h3 align="left">Support:</h3>
+<h3 align="left"></h3>
 <p><a href="https://www.buymeacoffee.com/surajcse"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="surajcse" /></a></p><br><br>
