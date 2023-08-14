@@ -118,4 +118,3 @@
 </p>
 <h4 align="left">Lightning Payment Address: <a href="https://strike.me/cse/">https://strike.me/cse </a></h4>
 <h3 align="left"></h3>
-<p><a href="https://www.buymeacoffee.com/surajcse"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="surajcse" /></a></p><br><br>
